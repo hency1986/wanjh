@@ -25,7 +25,7 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@types/react-router-dom": "^5.3.3",
-    "@types/xlsx": "^0.0.36",
+    "@types/xlsx": "^0.15.59",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
